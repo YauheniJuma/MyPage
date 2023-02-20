@@ -1,0 +1,20 @@
+:root {
+    --color1: #c7d0cc;
+    --color2: #e5e4e2;
+}
+
+.aboutme {
+    background-color: var(--color2);
+}
+
+.footer {
+    background-color: var(--color1);
+}
+
+.me-img {
+    border-radius: 20%;
+}
+
+.text-wrap {
+    width: 32.5rem;
+}
